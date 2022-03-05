@@ -53,7 +53,7 @@ Microprocessor and Microcontroller laboratory All 1 to 24 Programs.
 19. 2's complement of a 16 bit number
 20. Unpacked BCD to ASCII
 
-##Use Proteous and 8051 Emulator for the following:
+## Use Proteous and 8051 Emulator for the following:
 21. LED
 22. Traffic light
 23. Keyboard and Display
